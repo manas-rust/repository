@@ -7,3 +7,5 @@
 # dhcp
 
 # iptables
+
+# pam
