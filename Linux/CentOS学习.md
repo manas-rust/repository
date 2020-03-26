@@ -1,0 +1,13 @@
+
+- 官网	https://wiki.centos.org/
+- 导航	https://wiki.centos.org/Contribute
+- 论坛	https://forums.centos.org/
+- Bug跟踪系统	https://bugs.centos.org/my_view_page.php
+- 聊天频道	https://wiki.centos.org/irc
+- 邮件列表（项目ower，邮件列表）	https://lists.centos.org/mailman/listinfo/centos-devel
+- 各个版本的测试包（未签名）	https://buildlogs.centos.org/
+- wiki贡献等其他	https://wiki.centos.org/Contribute
+- centos项目todo空缺	https://wiki.centos.org/ToDo
+- centos特别兴趣小组（已废弃原来的project网站）	https://wiki.centos.org/SpecialInterestGroup
+- centos项目代码仓库 （包含bug和特性提交记录）	https://git.centos.org/
+- 软件集合	https://koji.mbox.centos.org/koji/
