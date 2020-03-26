@@ -1,0 +1,1 @@
+- 与Linux 内核社区一起工作: https://www.kernel.org/doc/html/latest/translations/zh_CN/process/index.html
