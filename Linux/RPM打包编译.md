@@ -6,5 +6,7 @@
 - https://docs.fedoraproject.org/en-US/quick-docs/
 
 
+## OBS网站
+- https://openbuildservice.org/download/
 ## obs-server
 - https://openbuildservice.org/help/manuals/obs-admin-guide/
