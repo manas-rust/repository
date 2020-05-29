@@ -7,3 +7,5 @@
 - https://github.com/amueller/word_cloud
 3. 手把手撕LeetCode题目，扒各种算法套路的裤子
 - https://github.com/labuladong/fucking-algorithm
+4. shell 参考:
+- https://github.com/acmesh-official/acme.sh
