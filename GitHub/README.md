@@ -9,3 +9,6 @@
 - https://github.com/labuladong/fucking-algorithm
 4. shell 参考:
 - https://github.com/acmesh-official/acme.sh
+5. bt下载
+- https://github.com/ngosang/trackerslist
+- https://github.com/qbittorrent/qBittorrent
