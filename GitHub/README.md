@@ -12,3 +12,5 @@
 5. bt下载
 - https://github.com/ngosang/trackerslist
 - https://github.com/qbittorrent/qBittorrent
+6. 常用的正则表达式
+- https://github.com/meetbill/common-regex
