@@ -14,3 +14,8 @@
 - https://github.com/qbittorrent/qBittorrent
 6. 常用的正则表达式
 - https://github.com/meetbill/common-regex
+7. linux 测试项目
+- https://github.com/linux-test-project/ltp
+8. linux 内核学习
+- https://github.com/tinyclub/linux-lab
+
