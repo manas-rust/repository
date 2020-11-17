@@ -18,4 +18,5 @@
 - https://github.com/linux-test-project/ltp
 8. linux 内核学习
 - https://github.com/tinyclub/linux-lab
-
+9. 程序员如何把控自己的职业
+- https://coolshell.cn/articles/20977.html
