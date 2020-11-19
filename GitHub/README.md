@@ -20,3 +20,5 @@
 - https://github.com/tinyclub/linux-lab
 9. 程序员如何把控自己的职业
 - https://coolshell.cn/articles/20977.html
+10. 终端配色
+- https://github.com/mbadolato/iTerm2-Color-Schemes
