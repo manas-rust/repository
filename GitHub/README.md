@@ -22,3 +22,6 @@
 - https://coolshell.cn/articles/20977.html
 10. 终端配色
 - https://github.com/mbadolato/iTerm2-Color-Schemes
+11. ansible  -- linux-system-roles
+- https://github.com/linux-system-roles?page=1
+- https://linux-system-roles.github.io/
