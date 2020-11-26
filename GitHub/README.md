@@ -25,3 +25,5 @@
 11. ansible  -- linux-system-roles
 - https://github.com/linux-system-roles?page=1
 - https://linux-system-roles.github.io/
+12. navicat-keygen-tools
+- https://github.com/HeQuanX/navicat-keygen-tools/blob/linux/README.zh-CN.md
