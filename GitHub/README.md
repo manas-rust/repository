@@ -27,3 +27,5 @@
 - https://linux-system-roles.github.io/
 12. navicat-keygen-tools
 - https://github.com/HeQuanX/navicat-keygen-tools/blob/linux/README.zh-CN.md
+13.耶鲁大学-计算机科学教授-相关课程
+- http://www.cs.yale.edu/homes/aspnes/#classes
