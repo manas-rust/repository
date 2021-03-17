@@ -31,3 +31,8 @@
 - http://www.cs.yale.edu/homes/aspnes/#classes
 14. 专利
 - http://www.sstir.cn/
+
+# rust
+
+1. 练习题
+- https://github.com/tensor-programming
