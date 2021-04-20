@@ -36,3 +36,10 @@
 
 1. 练习题
 - https://github.com/tensor-programming
+2. Rust语言开源杂志
+- https://github.com/RustMagazine/rust_magazine_2021.git
+3. 用Rust写操作系统 | 清华 rCore OS 教程介绍
+- https://github.com/rcore-os/rCore-Tutorial-Book-v3.git
+4. OS Tutorial Summer of Code 2020
+- https://github.com/rcore-os/rCore/wiki/os-tutorial-summer-of-code
+
