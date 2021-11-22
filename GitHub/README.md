@@ -32,6 +32,9 @@
 - http://www.cs.yale.edu/homes/aspnes/#classes
 14. 专利
 - http://www.sstir.cn/
+15. 开源项目
+- https://awesomeopensource.com/projects
+
 
 # rust
 
